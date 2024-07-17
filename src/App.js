@@ -1,11 +1,11 @@
 import './App.css';
+import { Header } from './components/shared/header';
 
 function App() {
   return (
-    <div>
-      <header>
-      </header>
-    </div>
+    <body>
+      <Header/>
+    </body>
   );
 }
 
